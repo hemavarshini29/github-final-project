@@ -1,4 +1,4 @@
-# github-final-projec
+# github-final-project
   Getting started with git and github
   
 Simple Intrest calculator  
